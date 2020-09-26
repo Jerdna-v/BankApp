@@ -1,0 +1,8 @@
+Module to be installed:
+	PyQt5
+
+Other installed modules:
+	sqlite3
+	re
+	datetime
+	

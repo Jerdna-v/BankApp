@@ -53,7 +53,7 @@ class DataGrid(QtWidgets.QWidget):
         self.setLayout(self.layout)
 
         self.setWindowTitle("View")
-        self.resize(600, 300)
+        self.showMaximized()
 
     def sqlStatement(self):
         if self.buttonClicked == 'Client/accounts':
